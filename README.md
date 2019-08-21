@@ -6,7 +6,7 @@ This project will help you practice the skills and concepts you learned related 
 
 Please go to [this repl.it page](https://repl.it/student/submissions/7576065) to complete the assignment. The instructions are on that page as well.
 
-### Mac Users: Download the Playground
+### Mac Users:
 
 1. Download the playground for this project by clicking [here](https://github.com/LambdaSchool/StringsAndArithmetic/archive/master.zip). 
 2. Unzip the downloaded file.
